@@ -1,6 +1,6 @@
 {
-    "name": "rtxzy",
-    "version": "8.0.3",
+    "name": "Mas-IP",
+    "version": "1.0.3",
     "description": "Lightweight WhatsApp Bot",
     "depecrated": false,
     "main": "index.js",
@@ -26,9 +26,9 @@
         "botcahx",
         "baileys"
     ],
-    "homepage": "https://github.com/BOTCAHX/RTXZY-MD",
+    "homepage": "https://github.com/Mas-IP/Wonge-bozt.git",
     "author": {
-        "name": "BOTCAHX"
+        "name": "𝐖𝐎𝐍𝐆-𝐁𝟎𝐓"
     },
     "repository": {
         "type": "git",
