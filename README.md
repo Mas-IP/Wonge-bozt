@@ -1,1 +1,1 @@
-Gatau iseng aja 
+File ini khusus untuk memyimpan media dari cmd tourl
